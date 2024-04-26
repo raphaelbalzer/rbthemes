@@ -1,0 +1,11 @@
+Package: rbthemes
+Type: Package
+Title: Themes for ggplot2
+Version: 0.1.0
+Author: Raphael Balzer
+Description: This package contains 6 additional themes, 4 of them being colorblind-friendly.
+    The latter use the same palette but in opposite orders.
+Imports: ggplot2 (>= 3.5.0)
+License: CC
+Encoding: UTF-8
+LazyData: true
