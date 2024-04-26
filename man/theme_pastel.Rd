@@ -8,7 +8,7 @@ theme_pastel
 Adds theme_minimal() and scale_color/fill_manual(values = pastel) to a ggplot-object.
 }
 \examples{
-library(ggplot)
+library(ggplot2)
 
 ggplot(mtcars, aes(x = hp, y = mpg, color = factor(cyl))) +
   geom_point() +
